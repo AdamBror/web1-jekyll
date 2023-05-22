@@ -5,9 +5,10 @@
 
     <ul>
         {% for post in site.posts %}
-        <img src="{{post.img}}" alt="">
-
-        <li><a href="{{post.url}}">{{post.title}}</a></li>
+        <img class="image" src="{{post.img}}" width="850px" height="600px" alt="">
+        <h2 class="url"><a href="{{post.url}}">{{post.title}}</a></h2>
+        <h4> {{post.date}}</h4>
+        <h3>{{post.content}}</h3>
         {% endfor %}
     </ul>
 
