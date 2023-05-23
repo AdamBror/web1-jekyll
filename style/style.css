@@ -1,7 +1,7 @@
 * {
     text-align: center;
     text-decoration: none;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h4 {
@@ -23,4 +23,7 @@ a {
 
 h3 {
     font-weight: normal;
+}
+.url1 {
+    width: 850px;
 }
