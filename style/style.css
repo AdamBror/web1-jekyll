@@ -23,7 +23,18 @@ a {
 
 h3 {
     font-weight: normal;
+    width: 40%;
+    margin: 450px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    
 }
 .url1 {
     width: 850px;
+}
+
+.about{
+    margin: 0 auto;
+    text-align: left;
+    width: 30%;
 }
